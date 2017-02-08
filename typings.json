@@ -1,0 +1,7 @@
+{
+  "globalDevDependencies": {
+    "localforage": "registry:dt/localforage#0.0.0+20161102134758",
+    "lodash": "registry:dt/lodash#4.14.0+20161110215204",
+    "node": "registry:dt/node#6.0.0+20161121110008"
+  }
+}
